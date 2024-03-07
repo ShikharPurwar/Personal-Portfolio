@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer - Intern",
+    "organisation": "( CodSoft )",
+    "startDate": "Sept, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Worked on core JavaScript",
+      "Created Resposive and functional websites"
+    ]
+    
+  },
+  {
+    "id": 2,
+    "role": "Technical head",
+    "organisation": "( ACM STUDENT CHAPTER ) ",
+    "startDate": "Nov, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Microsoft Azure",
+      "Organised 50+ Events"
+    ]
+    
+  }
+  
+  
+]
