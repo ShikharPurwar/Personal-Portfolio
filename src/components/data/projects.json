@@ -4,8 +4,8 @@
     "title": "Pinterest Clone",
     "imageSrc": "https://i.pinimg.com/564x/86/0c/87/860c87633f4de3aae800d9c948cbebdd.jpg",
     "description": "MERN project with authentication system.",
-    "demo": "https://github.com/ShikharPurwar/Pinterest",
-    "source": "https://github.com/ShikharPurwar/Pinterest"
+    "demo": "https://github.com/ShikharPurwar/pinterest",
+    "source": "https://github.com/ShikharPurwar/pinterest"
   },
   {
     "key": 2,
@@ -20,15 +20,15 @@
     "title": "Personal Portfolio",
     "imageSrc": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Personal portfolio website made using complete reactJs.",
-    "demo": "https://github.com/ShikharPurwar/Portfolio",
-    "source": "https://github.com/ShikharPurwar/Portfolio"
+    "demo": "https://github.com/ShikharPurwar/Personal-Portfolio",
+    "source": "https://github.com/ShikharPurwar/Personal-Portfolio"
   },
   {
     "key": 4,
     "title": "E-Commerce Footwear",
     "imageSrc": "https://i.pinimg.com/564x/76/e6/b9/76e6b9355380c85fe9a80dddae96172c.jpg",
     "description": "It's a fully responsive e-commerce website for footwears.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://shikharpurwar.github.io/PurwarFootwear-Bootstrap/",
+    "source": "https://github.com/ShikharPurwar/PurwarFootwear-Bootstrap"
   }
 ]
